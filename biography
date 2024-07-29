@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography</title>
+    <link rel="stylesheet" href="my css.css">
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .image-container img {
+            max-width: 40%; 
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center; padding: 10px 0;">Biography</h1>
+        <p><b> Wang Hao Yu </b></a>
+            <br>Computer science undergraduate students studying at UCSI.
+            <br>A computer man who loves all kinds of sports
+            <br>Currently I just want to gain more knowledge about IT and get better grades la <br>
+                from Dr. Fatima Nadeem Salem Al-Aswadi. <br>
+        </p>
+    </header>
+    <div class="container">
+        <table>
+            <tr>
+                <th>Birthdate: </th>
+                <td>07<sup>th</sup> Feb 2002</td>
+            </tr>
+            <tr>
+                <th>Come from: </th>
+                <td>Urumqi,xinjiang,China</td>
+            </tr>
+            <tr>
+                <th>Achievements: </th>
+                <td>
+                    <ul>
+                        <li>Taekwondo red and black belt, former national first-level athlete</li>
+                        <li>8<sup>th</sup>national basketball competition</li>
+                        <li>MVP&FMVP high school basketball league</li>
+                        <li>Skiing, swimming, badminton enthusiasts</li>
+                        <li>Complete this assignment carefully</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th>Future plans: </th>
+                <td>
+                    <ul>
+                        <li>Be able to master English and graduate successfully with good grades</li>
+                        <li>Upon completion of the first program, continue studies to obtain a graduate master</li>
+                        <li>Happy family and long life</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <div class="image-container">
+            <img src="left.jpg" alt="Left Image">
+            <img src="right.jpg" alt="Right Image">
+        </div>
+        <div class="container">
+            <div class="links">
+                <div class="link">
+                    <a href="Main page.html">Main page</a>
+                </div>
+                <div class="link">
+                    <a href="Introduction.html">Introduction</a>
+                </div>
+                <div class="link">
+                    <a href="Discussion.html">Discussion</a>
+                </div>
+                <div class="link">
+                    <a href="Conclusion.html">Conclusion</a>
+                </div>
+                <div class="link">
+                    <a href="Biography.html">Biography</a>
+                </div>
+            </div>    
+        </div>
+    </div>
+</body>
+</html>
+
+
+
